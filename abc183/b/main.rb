@@ -1,2 +1,2 @@
 #!/usr/bin/env ruby
-input = gets.chomp.split("")
+sx, sy, gx, gy = gets.split.map(&:to_i)
